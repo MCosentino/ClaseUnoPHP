@@ -5,8 +5,8 @@
 <body>
 	<?php
 	$numero = 10;
-	echo "<br>El numero es $numero";
-
+	//echo "<br>El numero es $numero";
+	echo "El cambio..."
 	?>
 </body>
 </html>
